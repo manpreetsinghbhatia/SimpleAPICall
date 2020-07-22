@@ -1,0 +1,11 @@
+C:\Users\ManpreetBhatia\source\repos\DataAccessLib\obj\Debug\netcoreapp3.1\DataAccessLib.AssemblyInfoInputs.cache
+C:\Users\ManpreetBhatia\source\repos\DataAccessLib\obj\Debug\netcoreapp3.1\DataAccessLib.AssemblyInfo.cs
+C:\Users\ManpreetBhatia\source\repos\DataAccessLib\obj\Debug\netcoreapp3.1\DataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\ManpreetBhatia\source\repos\SimpleAPICall\bin\Debug\netcoreapp3.1\DataAccessLib.deps.json
+C:\Users\ManpreetBhatia\source\repos\SimpleAPICall\bin\Debug\netcoreapp3.1\DataAccessLib.runtimeconfig.json
+C:\Users\ManpreetBhatia\source\repos\SimpleAPICall\bin\Debug\netcoreapp3.1\DataAccessLib.runtimeconfig.dev.json
+C:\Users\ManpreetBhatia\source\repos\SimpleAPICall\bin\Debug\netcoreapp3.1\DataAccessLib.dll
+C:\Users\ManpreetBhatia\source\repos\SimpleAPICall\bin\Debug\netcoreapp3.1\DataAccessLib.pdb
+C:\Users\ManpreetBhatia\source\repos\DataAccessLib\obj\Debug\netcoreapp3.1\DataAccessLib.dll
+C:\Users\ManpreetBhatia\source\repos\DataAccessLib\obj\Debug\netcoreapp3.1\DataAccessLib.pdb
+C:\Users\ManpreetBhatia\source\repos\DataAccessLib\obj\Debug\netcoreapp3.1\DataAccessLib.genruntimeconfig.cache
