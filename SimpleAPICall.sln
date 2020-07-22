@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAPICall", "SimpleAPICall.csproj", "{6FAC32C6-35BA-44D0-9537-83E85C6457C4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{20E18426-CCF6-4596-9264-4E6CDB8F8076} = {20E18426-CCF6-4596-9264-4E6CDB8F8076}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLib", "..\DataAccessLib\DataAccessLib.csproj", "{20E18426-CCF6-4596-9264-4E6CDB8F8076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAC32C6-35BA-44D0-9537-83E85C6457C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAC32C6-35BA-44D0-9537-83E85C6457C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAC32C6-35BA-44D0-9537-83E85C6457C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAC32C6-35BA-44D0-9537-83E85C6457C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E18426-CCF6-4596-9264-4E6CDB8F8076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E18426-CCF6-4596-9264-4E6CDB8F8076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E18426-CCF6-4596-9264-4E6CDB8F8076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E18426-CCF6-4596-9264-4E6CDB8F8076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F32941-131E-463D-9F60-D4C1F201D267}
+	EndGlobalSection
+EndGlobal
